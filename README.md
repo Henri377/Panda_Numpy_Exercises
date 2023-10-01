@@ -14,10 +14,14 @@ The primary purpose of this project is to:
 
 To explore and run the exercises in this repository, you will need to have Python installed on your system, along with the Pandas and NumPy libraries. You can install these libraries using `pip`:
 
-## Link to The Repositories
+```bash
+pip install pandas numpy
+```
+
+## Link to The Repositories And Sites
 
  - https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md
  - https://github.com/guipsamora/pandas_exercises
+ - https://www.machinelearningplus.com/python/101-numpy-exercises-python/
+ - https://www.machinelearningplus.com/python/101-pandas-exercises-python/
 
-```bash
-pip install pandas numpy
